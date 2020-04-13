@@ -41,8 +41,8 @@ columns_tuple.sort(key=lambda tup: tup[0], reverse=True)
 most_important_features=[name for val,name in columns_tuple]
 # print(len(most_important_features))
 
-stockDF=stockDF[most_important_features[0:35]]
-stockTest=stockTest[most_important_features[0:35]]
+stockDF=stockDF[most_important_features[0:10]]
+stockTest=stockTest[most_important_features[0:10]]
 stockDF=(stockDF-stockDF.mean())/stockDF.std() #normailize data
 stockTest=(stockTest-stockTest.mean())/stockTest.std() #normailize data
 stockTest = stockTest.fillna(stockTest.mean())
