@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ed1558-aaec-4320-a50d-0c662426de60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/kaggle_comp3.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaggle_comp3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../samples.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +34,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587070001500</updated>
-      <workItem from="1587070002779" duration="246000" />
+      <workItem from="1587070002779" duration="460000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1413" height="713" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587070460340">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="93" y="93" width="1413" height="713" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.900@0.0.1600.900" timestamp="1587070460340" />
   </component>
 </project>
