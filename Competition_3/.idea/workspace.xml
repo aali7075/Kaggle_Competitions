@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ed1558-aaec-4320-a50d-0c662426de60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kaggle_comp3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../samples.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_and_test.npz" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +32,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587070001500</updated>
-      <workItem from="1587070002779" duration="460000" />
+      <workItem from="1587070002779" duration="896000" />
     </task>
     <servers />
   </component>
