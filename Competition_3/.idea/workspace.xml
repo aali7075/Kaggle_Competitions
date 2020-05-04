@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18ed1558-aaec-4320-a50d-0c662426de60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18ed1558-aaec-4320-a50d-0c662426de60" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Kaggle NLP" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +33,7 @@
       <updated>1587070001500</updated>
       <workItem from="1587070002779" duration="1386000" />
       <workItem from="1587086275025" duration="548000" />
+      <workItem from="1588445459047" duration="111000" />
     </task>
     <servers />
   </component>
@@ -41,13 +41,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="581" y="205" key="FileChooserDialogImpl" timestamp="1588445567486">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="581" y="205" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1588445567486" />
     <state x="93" y="93" width="1413" height="713" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1587070460340">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="93" y="93" width="1413" height="713" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1600.900@0.0.1600.900" timestamp="1587070460340" />
-    <state x="620" y="550" key="com.intellij.ide.util.TipDialog" timestamp="1587086275323">
+    <state x="620" y="550" key="com.intellij.ide.util.TipDialog" timestamp="1588445485695">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="620" y="550" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1587086275323" />
+    <state x="620" y="550" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1588445485695" />
   </component>
 </project>
